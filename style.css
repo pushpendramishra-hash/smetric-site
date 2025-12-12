@@ -236,3 +236,29 @@ footer {
   padding: 14px;
   text-align: center;
 }
+/* HERO TEXT FIXES */
+
+.home .text-one,
+.home .text-three {
+  font-size: 1.1rem; /* Size (1) */
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+}
+
+.home .text-two {
+  font-size: 3.2rem; /* Larger main heading */
+  font-weight: 700;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
+}
+
+.home .text-four {
+  font-size: 1.35rem; /* Medium size (bigger than 1) */
+  margin-top: 6px;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+}
+
+.home .text-five {
+  font-size: 1.15rem;
+  margin-top: 10px;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+}
+
